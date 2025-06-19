@@ -28,5 +28,8 @@ This project was developed as part of an internship assignment to demonstrate **
 | Security   | Password Hashing, Prepared Statements |
 
 ---
-
+👨‍💻 Author
+Arvind Kumar
+BCA Final Year Student
+GitHub: @ArvindKumarS24
 
